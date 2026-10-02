@@ -55,4 +55,4 @@ lang: zh-TW
 ## 延伸閱讀
 
 - [Do Things that Don't Scale](https://paulgraham.com/ds.html) — Paul Graham。Partner 要你描述的那個手動動作，它的理由。
-- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator。同一個動作的前門：你怎麼把對話約到。也在[問題清晰度](../03-problem-clarity-customer-stories/)。
+- [How To Talk To Users \| Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator。同一個動作的前門：你怎麼把對話約到。也在[問題清晰度](../03-problem-clarity-customer-stories/)。

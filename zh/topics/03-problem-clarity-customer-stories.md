@@ -50,7 +50,7 @@ YC 面試常常在第一分鐘就變成「跟我講一個用戶」。早期 VC �
 ## 觀看
 
 - [Eric Migicovsky - How to Talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc) — Y Combinator。實務版：找誰談、哪些問題不是 pitch，以及把聽到的寫下來。
-- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator，Gustaf Alströmer。怎麼把對話約到，以及不要太早把點子丟進去而偏掉它。
+- [How To Talk To Users \| Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator，Gustaf Alströmer。怎麼把對話約到，以及不要太早把點子丟進去而偏掉它。
 
 ## 延伸閱讀
 
