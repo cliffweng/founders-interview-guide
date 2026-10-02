@@ -27,8 +27,12 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-這個月我們接觸得到誰 → 我們已經做了什麼（計數）→ 什麼轉化了 → 我們認為會重複的那一個動作 → 我們明確還沒花錢的是什麼
+```mermaid
+flowchart TD
+  R[Who we can reach this month] --> D["what we already did (counts)"]
+  D --> C[what converted]
+  C --> M[the one motion we think repeats]
+  M --> N[what we are explicitly not spending on yet]
 ```
 
 面試版本就是這個順序。五個 logo 的策略投影片，是你跳過的東西。

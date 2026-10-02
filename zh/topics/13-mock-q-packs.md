@@ -26,8 +26,12 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-計時開始 → 他們打斷 → 你回答新的問題 → 停 → 之後：哪一句破了
+```mermaid
+flowchart TD
+  T[Timer on] --> I[they interrupt]
+  I --> A[you answer the new question]
+  A --> S[stop]
+  S --> B["after: which sentence broke"]
 ```
 
 你在回想一個真數字時的沉默，好過一句你之後必須收回的順句。
