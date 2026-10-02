@@ -26,8 +26,12 @@ YC interviews often turn into "tell me about a user" within the first minute. Ea
 
 ## Mental model
 
-```
-Who (specific) → last time it happened → what they did instead → what it cost → what you changed in the product
+```mermaid
+flowchart TD
+  W["Who (specific)"] --> L[last time it happened]
+  L --> I[what they did instead]
+  I --> C[what it cost]
+  C --> P[what you changed in the product]
 ```
 
 If you skip "last time," you are pitching. If you skip "what you changed," you are collecting anecdotes.

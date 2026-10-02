@@ -26,8 +26,12 @@ nav_order: 9
 
 ## Mental model
 
-```
-Who we can reach this month → what we already did (counts) → what converted → the one motion we think repeats → what we are explicitly not spending on yet
+```mermaid
+flowchart TD
+  R[Who we can reach this month] --> D["what we already did (counts)"]
+  D --> C[what converted]
+  C --> M[the one motion we think repeats]
+  M --> N[what we are explicitly not spending on yet]
 ```
 
 The interview version is that sequence. The strategy slide with five logos is the thing you skip.

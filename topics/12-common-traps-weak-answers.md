@@ -28,11 +28,11 @@ Most failed founder interviews are not missing a secret framework. They die on a
 
 ## Mental model
 
-```
-1. Plain sentence a non-expert can picture
-2. A past-tense fact (user, number, or cut)
-3. The ugly qualifier, said by you
-4. Stop
+```mermaid
+flowchart TD
+  S1["1. Plain sentence a non-expert can picture"] --> S2["2. A past-tense fact (user, number, or cut)"]
+  S2 --> S3["3. The ugly qualifier, said by you"]
+  S3 --> S4["4. Stop"]
 ```
 
 If your answer skips 2, it is a pitch. If it skips 3, it is a spin. If it skips 4, it is a monologue.

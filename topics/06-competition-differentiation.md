@@ -26,8 +26,12 @@ nav_order: 7
 
 ## Mental model
 
-```
-Who they use today → why that still wins → the one axis you are better on → why the incumbent doesn't just copy that axis → what you are not claiming yet
+```mermaid
+flowchart TD
+  T[Who they use today] --> W[why that still wins]
+  W --> A[the one axis you are better on]
+  A --> C["why the incumbent doesn't just copy that axis"]
+  C --> N[what you are not claiming yet]
 ```
 
 Run it in that order. The matrix is optional and usually worse.

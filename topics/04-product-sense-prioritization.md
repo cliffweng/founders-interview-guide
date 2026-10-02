@@ -25,8 +25,12 @@ nav_order: 5
 
 ## Mental model
 
-```
-Riskiest assumption → smallest launched thing that touches it → what users did → the one thing you build next → everything else is not doing
+```mermaid
+flowchart TD
+  R[Riskiest assumption] --> S[smallest launched thing that touches it]
+  S --> U[what users did]
+  U --> N[the one thing you build next]
+  N --> E[everything else is not doing]
 ```
 
 The interview answer is that chain, not the feature inventory.

@@ -27,8 +27,12 @@ nav_order: 10
 
 ## Mental model
 
-```
-Who pays → for which job → price and cadence → what happened when you asked → which unit-economic number you will not invent
+```mermaid
+flowchart TD
+  P[Who pays] --> J[for which job]
+  J --> C[price and cadence]
+  C --> A[what happened when you asked]
+  A --> N["which unit-economic number you will not invent"]
 ```
 
 If the first three are fuzzy, do not talk about LTV.

@@ -25,8 +25,12 @@ Reading the spine and answering out loud are different skills. Founder interview
 
 ## Mental model
 
-```
-Timer on → they interrupt → you answer the new question → stop → after: which sentence broke
+```mermaid
+flowchart TD
+  T[Timer on] --> I[they interrupt]
+  I --> A[you answer the new question]
+  A --> S[stop]
+  S --> B["after: which sentence broke"]
 ```
 
 Silence while you recall a true number is better than a smooth sentence you have to retract.

@@ -26,8 +26,12 @@ Team questions get sharp when something looks off: a solo founder, a 90/10 split
 
 ## Mental model
 
-```
-How we met → who does what this month → equity and vesting, in one sentence → the commitment constraint (school, job, geography) → the gap we are not hiding
+```mermaid
+flowchart TD
+  M[How we met] --> W[who does what this month]
+  W --> E["equity and vesting, in one sentence"]
+  E --> C["the commitment constraint (school, job, geography)"]
+  C --> G[the gap we are not hiding]
 ```
 
 Short, specific, and slightly uncomfortable is the right tone. A culture speech is not.
