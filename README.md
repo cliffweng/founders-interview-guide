@@ -6,6 +6,12 @@ A practical study guide for Penn founders preparing for YC and other accelerator
 
 GitHub Pages publishes the same site at https://cliffweng.github.io/founders-interview-guide/ once Pages is enabled. Do not add a `CNAME`. `cliffweng.com` already serves the sibling guides, and this repo stays on the path above.
 
+## Languages
+
+The guide is in English and Traditional Chinese (繁體中文 / ZH-TW). English stays at the site root and under [`topics/`](topics/). Chinese mirrors it under [`zh/`](zh/): home plus the same 14 topics, same filenames. The header (and, on small screens, the top bar) has an **EN / 繁中** toggle that links to the counterpart page. The language lives in the URL (`/zh/...`), so it persists across visits without extra storage.
+
+Proper nouns, interview terms (YC, MRR, CAC, GTM, LOI, and the rest), and every Mermaid diagram stay in English, including on the Chinese pages. Do not translate diagram node text. If you change an English topic, update the matching file under `zh/topics/`.
+
 ## Roadmap
 
 14 topics, one file each under [`topics/`](topics/), ordered the way a founder interview actually runs:
@@ -66,6 +72,7 @@ These are the product locks this guide was built against — echoed here so futu
 - **Real links only**: every YouTube link was checked to exist before it was added. No invented video IDs.
 - **Static site, GitHub Pages, Just the Docs**: `remote_theme: just-the-docs/just-the-docs`. `baseurl: "/founders-interview-guide"`. `url: "https://cliffweng.github.io"`. Mermaid 10.1.0. No backend, no auth, no quizzes, no progress tracking.
 - **Sites**: https://cliffweng.com/founders-interview-guide/ and https://cliffweng.github.io/founders-interview-guide/. No `CNAME` in this repo. `cliffweng.com` stays with the sibling guides.
+- **Languages**: English and Traditional Chinese (ZH-TW). Toggle links the same filename across `/` and `/zh/`. Interview terms and Mermaid diagrams stay in English.
 - **Non-goals for v1**: full startup ops playbook (a separate startup guide owns that), legal deep dives, quizzes, auth, progress backend.
 
 ## Enabling GitHub Pages
