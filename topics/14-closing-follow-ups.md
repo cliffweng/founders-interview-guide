@@ -26,10 +26,10 @@ The interview is usually decided before your clever question, and a YC slot ofte
 
 ## Mental model
 
-```
-In the room: one useful question, or none
-After: send exactly what you promised, and any correction
-Don't: a new pitch, a fake deadline, a different number
+```mermaid
+flowchart TD
+  R["In the room: one useful question, or none"] --> A["After: send exactly what you promised, and any correction"]
+  A --> D["Don't: a new pitch, a fake deadline, a different number"]
 ```
 
 The close is a handoff. The company does not get reinvented in the handoff.

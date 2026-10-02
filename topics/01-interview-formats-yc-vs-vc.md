@@ -28,7 +28,7 @@ The same company story fails in different ways in different rooms. A 12-slide se
 
 ```mermaid
 flowchart TD
-  R[Which room is this?] --> Y[YC / accelerator: ~10 min, app already read]
+  R[Which room is this?] --> Y["YC / accelerator: ~10 min, app already read"]
   R --> V[Early VC: first meeting plus follow-ups]
   Y --> YD[Decision: do we believe these founders and this early evidence?]
   V --> VD[Decision: do we want to invest in this round?]

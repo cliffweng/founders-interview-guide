@@ -56,7 +56,7 @@ Definition, level, quality, then the rate. Reversing that order is how a true-is
 
 ## Watch
 
-- [B2B Startup Metrics | Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator. Retention, net dollar retention, and why a leaky cohort does not get saved by new sales. The worked example is the one to be able to redo with your own numbers.
+- [B2B Startup Metrics \| Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator. Retention, net dollar retention, and why a leaky cohort does not get saved by new sales. The worked example is the one to be able to redo with your own numbers.
 - [The Real Product Market Fit by Michael Seibel](https://www.youtube.com/watch?v=FBOLk9s9Ci4) — Y Combinator. Why growth that doesn't stay, and company-building theater, are not fit. Useful when your chart is a spike.
 
 ## Further reading
