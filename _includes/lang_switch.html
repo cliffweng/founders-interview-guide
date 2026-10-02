@@ -15,7 +15,7 @@
 {%- if lang_other == "zh-TW" -%}
   {%- assign lang_pool = site.html_pages | where: "lang", "zh-TW" -%}
 {%- else -%}
-  {%- assign lang_pool = site.html_pages | where_exp: "item", "item.lang == nil or item.lang == 'en'" -%}
+  {%- assign lang_pool = site.html_pages | where: "lang", "en" -%}
 {%- endif -%}
 {%- for candidate in lang_pool -%}
   {%- assign candidate_key = candidate.name | replace: ".md", "" -%}

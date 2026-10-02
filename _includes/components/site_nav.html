@@ -9,7 +9,7 @@
 {%- if nav_lang == "zh-TW" -%}
   {%- assign nav_pages = site.html_pages | where: "lang", "zh-TW" -%}
 {%- else -%}
-  {%- assign nav_pages = site.html_pages | where_exp: "item", "item.lang == nil or item.lang == 'en'" -%}
+  {%- assign nav_pages = site.html_pages | where: "lang", "en" -%}
 {%- endif -%}
 
 <nav aria-label="{% if nav_lang == 'zh-TW' %}主要導覽{% else %}Main{% endif %}" id="site-nav" class="site-nav">
