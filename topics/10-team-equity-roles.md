@@ -48,7 +48,7 @@ Short, specific, and slightly uncomfortable is the right tone. A culture speech 
 
 ## Watch
 
-- [Co-Founder Equity Mistakes to Avoid | Startup School](https://www.youtube.com/watch?v=DISocTmEwiI) — Y Combinator, Michael Seibel. Generosity, vesting, cliffs, and the bad reasons for a lopsided split. This is advice for early tech startups, not a substitute for counsel.
+- [Co-Founder Equity Mistakes to Avoid \| Startup School](https://www.youtube.com/watch?v=DISocTmEwiI) — Y Combinator, Michael Seibel. Generosity, vesting, cliffs, and the bad reasons for a lopsided split. This is advice for early tech startups, not a substitute for counsel.
 
 ## Further reading
 

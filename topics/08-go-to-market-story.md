@@ -54,4 +54,4 @@ The interview version is that sequence. The strategy slide with five logos is th
 ## Further reading
 
 - [Do Things that Don't Scale](https://paulgraham.com/ds.html) — Paul Graham. The case for the manual motion partners are asking you to describe.
-- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator. The front door of the same motion: how you get the conversation. Also on [Problem clarity](../03-problem-clarity-customer-stories/).
+- [How To Talk To Users \| Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator. The front door of the same motion: how you get the conversation. Also on [Problem clarity](../03-problem-clarity-customer-stories/).

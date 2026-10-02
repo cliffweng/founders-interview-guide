@@ -49,7 +49,7 @@ If you skip "last time," you are pitching. If you skip "what you changed," you a
 ## Watch
 
 - [Eric Migicovsky - How to Talk to Users](https://www.youtube.com/watch?v=MT4Ig2uqjTc) — Y Combinator. The practical version: who to talk to, questions that aren't pitches, and writing down what you heard.
-- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator, Gustaf Alströmer. How to get the conversation, and how not to bias it by introducing the idea too early.
+- [How To Talk To Users \| Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg) — Y Combinator, Gustaf Alströmer. How to get the conversation, and how not to bias it by introducing the idea too early.
 
 ## Further reading
 

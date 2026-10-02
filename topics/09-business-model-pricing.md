@@ -49,10 +49,10 @@ If the first three are fuzzy, do not talk about LTV.
 
 ## Watch
 
-- [Startup Business Models and Pricing | Startup School](https://www.youtube.com/watch?v=oWZbWzAyHAE) — Y Combinator, Aaron Epstein. Which models show up in real outcomes, and the pricing rules: charge, price on value, don't hide behind a low number.
+- [Startup Business Models and Pricing \| Startup School](https://www.youtube.com/watch?v=oWZbWzAyHAE) — Y Combinator, Aaron Epstein. Which models show up in real outcomes, and the pricing rules: charge, price on value, don't hide behind a low number.
 - [Michael Seibel on how to create a great startup pitch](https://www.youtube.com/watch?v=UrdqXffoOUo) — Startup Archive. The "how you make money" minute: one sentence, the normal model for your industry, no menu of maybes.
 
 ## Further reading
 
 - [16 Startup Metrics](https://a16z.com/16-startup-metrics/) — Andreessen Horowitz. Definitions that keep GMV, revenue, and margin from collapsing into one word.
-- [B2B Startup Metrics | Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator. What retention means once someone is paying. Also on [Traction](../07-traction-metrics-under-fire/).
+- [B2B Startup Metrics \| Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator. What retention means once someone is paying. Also on [Traction](../07-traction-metrics-under-fire/).
