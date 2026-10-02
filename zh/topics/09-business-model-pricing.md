@@ -54,10 +54,10 @@ flowchart TD
 
 ## 觀看
 
-- [Startup Business Models and Pricing | Startup School](https://www.youtube.com/watch?v=oWZbWzAyHAE) — Y Combinator，Aaron Epstein。哪些模式出現在真實的結果裡，以及定價規則：收費、照價值定價、不要躲在一個低數字後面。
+- [Startup Business Models and Pricing \| Startup School](https://www.youtube.com/watch?v=oWZbWzAyHAE) — Y Combinator，Aaron Epstein。哪些模式出現在真實的結果裡，以及定價規則：收費、照價值定價、不要躲在一個低數字後面。
 - [Michael Seibel on how to create a great startup pitch](https://www.youtube.com/watch?v=UrdqXffoOUo) — Startup Archive。「你怎麼賺錢」的那一分鐘：一句話，你這個產業的正常模式，沒有一張 maybe 的菜單。
 
 ## 延伸閱讀
 
 - [16 Startup Metrics](https://a16z.com/16-startup-metrics/) — Andreessen Horowitz。讓 GMV、營收和毛利不會塌成同一個詞的定義。
-- [B2B Startup Metrics | Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator。有人開始付錢之後，retention 是什麼意思。也在 [Traction](../07-traction-metrics-under-fire/)。
+- [B2B Startup Metrics \| Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator。有人開始付錢之後，retention 是什麼意思。也在 [Traction](../07-traction-metrics-under-fire/)。

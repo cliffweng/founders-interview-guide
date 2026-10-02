@@ -53,7 +53,7 @@ flowchart TD
 
 ## 觀看
 
-- [Co-Founder Equity Mistakes to Avoid | Startup School](https://www.youtube.com/watch?v=DISocTmEwiI) — Y Combinator，Michael Seibel。慷慨、vesting、cliff，以及分配傾斜的壞理由。這是給早期科技新創的建議，不是律師的替代。
+- [Co-Founder Equity Mistakes to Avoid \| Startup School](https://www.youtube.com/watch?v=DISocTmEwiI) — Y Combinator，Michael Seibel。慷慨、vesting、cliff，以及分配傾斜的壞理由。這是給早期科技新創的建議，不是律師的替代。
 
 ## 延伸閱讀
 

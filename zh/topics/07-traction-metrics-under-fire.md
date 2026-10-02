@@ -57,7 +57,7 @@ flowchart TD
 
 ## 觀看
 
-- [B2B Startup Metrics | Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator。Retention、net dollar retention，以及為什麼一個在漏的 cohort 不會被新銷售救回來。那個算過的例子，是你要能用自己的數字重做的。
+- [B2B Startup Metrics \| Startup School](https://www.youtube.com/watch?v=_mKeVGSqQac) — Y Combinator。Retention、net dollar retention，以及為什麼一個在漏的 cohort 不會被新銷售救回來。那個算過的例子，是你要能用自己的數字重做的。
 - [The Real Product Market Fit by Michael Seibel](https://www.youtube.com/watch?v=FBOLk9s9Ci4) — Y Combinator。為什麼留不住的成長，以及把公司做出來的表演，都不是 fit。你的圖是一根尖峰時有用。
 
 ## 延伸閱讀
