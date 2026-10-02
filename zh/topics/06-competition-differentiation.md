@@ -27,8 +27,12 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-他們今天用誰 → 為什麼那個仍然贏 → 你更好的那一個軸 → 為什麼現有廠商不直接複製那個軸 → 你還沒有在主張的是什麼
+```mermaid
+flowchart TD
+  T[Who they use today] --> W[why that still wins]
+  W --> A[the one axis you are better on]
+  A --> C["why the incumbent doesn't just copy that axis"]
+  C --> N[what you are not claiming yet]
 ```
 
 照這個順序走。矩陣是選用的，而且通常更糟。

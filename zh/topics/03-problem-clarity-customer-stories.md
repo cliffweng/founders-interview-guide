@@ -27,8 +27,12 @@ YC 面試常常在第一分鐘就變成「跟我講一個用戶」。早期 VC �
 
 ## 心智模型
 
-```
-誰（具體的人）→ 上次發生是什麼時候 → 他們當時怎麼做 → 代價是什麼 → 你因此改了產品的哪一塊
+```mermaid
+flowchart TD
+  W["Who (specific)"] --> L[last time it happened]
+  L --> I[what they did instead]
+  I --> C[what it cost]
+  C --> P[what you changed in the product]
 ```
 
 跳過「上次」，你是在 pitch。跳過「你改了什麼」，你是在蒐集軼事。

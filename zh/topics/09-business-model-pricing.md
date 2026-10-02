@@ -28,8 +28,12 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-誰付 → 為了哪一件工作 → 價格和頻率 → 你開口時發生了什麼 → 哪一個單位經濟數字你不會編
+```mermaid
+flowchart TD
+  P[Who pays] --> J[for which job]
+  J --> C[price and cadence]
+  C --> A[what happened when you asked]
+  A --> N["which unit-economic number you will not invent"]
 ```
 
 如果前三個是模糊的，不要談 LTV。

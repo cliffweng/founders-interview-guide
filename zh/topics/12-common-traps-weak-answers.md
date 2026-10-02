@@ -29,11 +29,11 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-1. 外行人想得到畫面的白話句子
-2. 一個過去式的事實（用戶、數字、或砍掉的東西）
-3. 難看的限定，由你自己說
-4. 停
+```mermaid
+flowchart TD
+  S1["1. Plain sentence a non-expert can picture"] --> S2["2. A past-tense fact (user, number, or cut)"]
+  S2 --> S3["3. The ugly qualifier, said by you"]
+  S3 --> S4["4. Stop"]
 ```
 
 如果你的答案跳過 2，它是 pitch。如果跳過 3，它是包裝。如果跳過 4，它是獨白。

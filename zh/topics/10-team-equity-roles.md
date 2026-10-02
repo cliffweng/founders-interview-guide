@@ -27,8 +27,12 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-我們怎麼認識 → 這個月誰做什麼 → 股權和 vesting，一句話 → 承諾的限制（學校、工作、地理位置）→ 我們沒有藏起來的缺口
+```mermaid
+flowchart TD
+  M[How we met] --> W[who does what this month]
+  W --> E["equity and vesting, in one sentence"]
+  E --> C["the commitment constraint (school, job, geography)"]
+  C --> G[the gap we are not hiding]
 ```
 
 短、具體、稍微不舒服，是對的語氣。一段文化演講不是。

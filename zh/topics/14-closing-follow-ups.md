@@ -27,10 +27,10 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-在房間裡：一個有用的問題，或沒有
-之後：送出你正好答應的東西，以及任何更正
-不要：一個新的 pitch、一個假的期限、一個不同的數字
+```mermaid
+flowchart TD
+  R["In the room: one useful question, or none"] --> A["After: send exactly what you promised, and any correction"]
+  A --> D["Don't: a new pitch, a fake deadline, a different number"]
 ```
 
 收尾是交接。公司不會在交接裡被重新發明。

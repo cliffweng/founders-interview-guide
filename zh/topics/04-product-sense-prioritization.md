@@ -26,8 +26,12 @@ lang: zh-TW
 
 ## 心智模型
 
-```
-風險最高的假設 → 碰到它的最小已推出版本 → 用戶做了什麼 → 你下一步只做的那一件 → 其他都是不做
+```mermaid
+flowchart TD
+  R[Riskiest assumption] --> S[smallest launched thing that touches it]
+  S --> U[what users did]
+  U --> N[the one thing you build next]
+  N --> E[everything else is not doing]
 ```
 
 面試的答案是這條鏈，不是功能清單。
