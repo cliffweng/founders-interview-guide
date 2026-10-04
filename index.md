@@ -6,7 +6,7 @@ nav_order: 1
 
 # Founders Interview Guide
 
-A practical study guide for Penn founders preparing for YC and other accelerator interviews, and for early VC diligence. Each topic is a short page, not a textbook chapter. The spine is the interview itself: why this, why now, why you, then product, market, traction, competition, go-to-market, team, and the ask.
+A practical study guide for founders preparing for YC and other accelerator interviews, and for early VC diligence. Each topic is a short page, not a textbook chapter. The spine is the interview itself: why this, why now, why you, then product, market, traction, competition, go-to-market, team, and the ask.
 
 ## How to use this guide
 

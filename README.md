@@ -1,6 +1,6 @@
 # Founders Interview Guide
 
-A practical study guide for Penn founders preparing for YC and other accelerator interviews, and for early VC diligence.
+A practical study guide for founders preparing for YC and other accelerator interviews, and for early VC diligence.
 
 **Live site:** https://cliffweng.com/founders-interview-guide/
 
@@ -64,7 +64,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). In short: one topic per file, keep it un
 
 These are the product locks this guide was built against — echoed here so future contributors don't accidentally relitigate them:
 
-- **Audience**: Penn founders prepping YC / accelerator interviews and early VC diligence. Darren & Gabe. Same job as the sibling study guides: short pages, interview questions, real links.
+- **Audience**: founders prepping YC / accelerator interviews and early VC diligence. Same job as the sibling study guides: short pages, interview questions, real links.
 - **Spine**: why this / why now / why you, then product, market, traction, competition, go-to-market, team and equity, fundraising narrative.
 - **Time-boxed**: every topic is readable in 10 minutes or less. Depth lives in "further reading."
 - **Learning + interview prep in one page**: each topic pairs core concepts with interview questions.
