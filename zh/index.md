@@ -4,13 +4,13 @@ layout: home
 nav_order: 1
 lang: zh-TW
 description: >-
-  給 Penn 創辦人準備 YC 與其他加速器面試，以及早期 VC 盡職調查的實用讀本。
+  給創辦人準備 YC 與其他加速器面試，以及早期 VC 盡職調查的實用讀本。
 permalink: /zh/
 ---
 
 # 創辦人面試指南
 
-給 Penn 創辦人準備 YC 與其他加速器面試，以及早期 VC 盡職調查的實用讀本。每個主題都是短頁，不是教科書章節。主軸就是面試本身：why this、why now、why you，然後是產品、市場、traction、競爭、go-to-market、團隊，以及 the ask。
+給創辦人準備 YC 與其他加速器面試，以及早期 VC 盡職調查的實用讀本。每個主題都是短頁，不是教科書章節。主軸就是面試本身：why this、why now、why you，然後是產品、市場、traction、競爭、go-to-market、團隊，以及 the ask。
 
 ## 怎麼用這份指南
 
